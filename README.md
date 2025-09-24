@@ -74,4 +74,4 @@
 ---
 
 <h3 align="left">🤝 Let's Connect</h3>
-<p>I’m always open to new collaborations, ideas, and opportunities. Feel free to connect with me on <a href="https://linkedin.com/in/shivekranjan" target="_blank" rel="noreferrer">LinkedIn</a> or reach out here on GitHub!</p>
+<p>I’m always open to new collaborations, ideas, and opportunities. Feel free to connect with me on <a href="www.linkedin.com/in/navish-malik-213922349" target="_blank" rel="noreferrer">LinkedIn</a> or reach out here on GitHub!</p>
